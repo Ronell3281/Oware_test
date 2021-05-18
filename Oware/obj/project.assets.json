@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ronell Shivuri\\OneDrive\\Desktop\\SD302\\Practical2\\Oware\\Oware.csproj",
+      "projectUniqueName": "C:\\Users\\Ronell Shivuri\\OneDrive\\Desktop\\wow1\\Oware_test\\Oware\\Oware.csproj",
       "projectName": "Oware",
-      "projectPath": "C:\\Users\\Ronell Shivuri\\OneDrive\\Desktop\\SD302\\Practical2\\Oware\\Oware.csproj",
+      "projectPath": "C:\\Users\\Ronell Shivuri\\OneDrive\\Desktop\\wow1\\Oware_test\\Oware\\Oware.csproj",
       "packagesPath": "C:\\Users\\Ronell Shivuri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ronell Shivuri\\OneDrive\\Desktop\\SD302\\Practical2\\Oware\\obj\\",
+      "outputPath": "C:\\Users\\Ronell Shivuri\\OneDrive\\Desktop\\wow1\\Oware_test\\Oware\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ronell Shivuri\\AppData\\Roaming\\NuGet\\NuGet.Config",

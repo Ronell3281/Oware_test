@@ -1,0 +1,5 @@
+C:\Users\Ronell Shivuri\OneDrive\Desktop\wow1\output\Oware.exe
+C:\Users\Ronell Shivuri\OneDrive\Desktop\wow1\output\Oware.dll
+C:\Users\Ronell Shivuri\OneDrive\Desktop\wow1\output\Oware.deps.json
+C:\Users\Ronell Shivuri\OneDrive\Desktop\wow1\output\Oware.runtimeconfig.json
+C:\Users\Ronell Shivuri\OneDrive\Desktop\wow1\output\Oware.pdb

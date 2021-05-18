@@ -1,0 +1,16 @@
+C:\Users\Ronell Shivuri\OneDrive\Desktop\wow1\Oware_test\Oware\bin\Debug\net5.0\Oware.exe
+C:\Users\Ronell Shivuri\OneDrive\Desktop\wow1\Oware_test\Oware\bin\Debug\net5.0\Oware.deps.json
+C:\Users\Ronell Shivuri\OneDrive\Desktop\wow1\Oware_test\Oware\bin\Debug\net5.0\Oware.runtimeconfig.json
+C:\Users\Ronell Shivuri\OneDrive\Desktop\wow1\Oware_test\Oware\bin\Debug\net5.0\Oware.runtimeconfig.dev.json
+C:\Users\Ronell Shivuri\OneDrive\Desktop\wow1\Oware_test\Oware\bin\Debug\net5.0\Oware.dll
+C:\Users\Ronell Shivuri\OneDrive\Desktop\wow1\Oware_test\Oware\bin\Debug\net5.0\ref\Oware.dll
+C:\Users\Ronell Shivuri\OneDrive\Desktop\wow1\Oware_test\Oware\bin\Debug\net5.0\Oware.pdb
+C:\Users\Ronell Shivuri\OneDrive\Desktop\wow1\Oware_test\Oware\obj\Debug\net5.0\Oware.csprojAssemblyReference.cache
+C:\Users\Ronell Shivuri\OneDrive\Desktop\wow1\Oware_test\Oware\obj\Debug\net5.0\Oware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ronell Shivuri\OneDrive\Desktop\wow1\Oware_test\Oware\obj\Debug\net5.0\Oware.AssemblyInfoInputs.cache
+C:\Users\Ronell Shivuri\OneDrive\Desktop\wow1\Oware_test\Oware\obj\Debug\net5.0\Oware.AssemblyInfo.cs
+C:\Users\Ronell Shivuri\OneDrive\Desktop\wow1\Oware_test\Oware\obj\Debug\net5.0\Oware.csproj.CoreCompileInputs.cache
+C:\Users\Ronell Shivuri\OneDrive\Desktop\wow1\Oware_test\Oware\obj\Debug\net5.0\Oware.dll
+C:\Users\Ronell Shivuri\OneDrive\Desktop\wow1\Oware_test\Oware\obj\Debug\net5.0\ref\Oware.dll
+C:\Users\Ronell Shivuri\OneDrive\Desktop\wow1\Oware_test\Oware\obj\Debug\net5.0\Oware.pdb
+C:\Users\Ronell Shivuri\OneDrive\Desktop\wow1\Oware_test\Oware\obj\Debug\net5.0\Oware.genruntimeconfig.cache
