@@ -2,22 +2,35 @@
 */
 using System.Collections.Generic;
 
-namespace Oware {
-    public class ScoreHouse {
+namespace Oware
+{
+    public interface IScoreHouse
+    {
+        void AddSeed(Seed seed);
+        int GetCount();
+        void Reset();
+    }
+
+    public class ScoreHouse : IScoreHouse
+    {
         private List<Seed> seedsInHouse;
-        public ScoreHouse() {
+        public ScoreHouse()
+        {
             seedsInHouse = new List<Seed>();
         }
-        
-        public int GetCount() {
+
+        public int GetCount()
+        {
             return seedsInHouse.Count;
         }
 
-        public void AddSeed(Seed seed) {
+        public void AddSeed(Seed seed)
+        {
             seedsInHouse.Add(seed);
         }
 
-        public void Reset() {
+        public void Reset()
+        {
             seedsInHouse.Clear();
         }
     }
