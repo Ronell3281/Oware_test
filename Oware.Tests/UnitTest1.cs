@@ -51,7 +51,7 @@ namespace Oware.Tests
             IScoreHouse h1 = new ScoreHouse();
             Player p1 = new Player("Ron", h1);
             p1.AddSeedToScoreHouse(new Seed());
-            Assert.AreEqual(1, p1.GetScore(), "2 Scores are expected");
+            Assert.AreEqual(1, p1.GetScore(), "1 Scores are expected");
         }
     }
 }
