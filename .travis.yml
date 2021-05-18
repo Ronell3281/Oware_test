@@ -1,0 +1,12 @@
+language: csharp
+os: 
+  - osx
+  - linux
+dist: focal
+solution: Oware.sln
+script:
+  - dotnet restore
+dotnet:
+  - 5.0
+  - 2.1.502
+mono: none
